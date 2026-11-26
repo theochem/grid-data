@@ -1,0 +1,9 @@
+{
+  "format_version": 1,
+  "weight_normalization": "4pi",
+  "name": "Symmetric spherical t-designs",
+  "reference": "R. S. Womersley, \"Efficient spherical designs with good geometric properties\", in: J. Dick, F. Y. Kuo, H. Wozniakowski (eds), Contemporary Computational Mathematics - A Celebration of the 80th Birthday of Ian Sloan, Springer (2018), 1243-1285. https://doi.org/10.1007/978-3-319-72456-0_57",
+  "source_url": "https://web.maths.unsw.edu.au/~rsw/Sphere/EffSphDes/ss.html",
+  "license": "Not stated by the source",
+  "notes": "The source files have no weights; equal weights 4pi/N were added."
+}
