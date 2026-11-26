@@ -2,8 +2,6 @@
 
 Additional grid data files for the [grid](https://github.com/theochem/grid) package.
 
-## Grid families
-
 This repository contains angular grids for the following families:
 
 | Family | Folder | Reference |
