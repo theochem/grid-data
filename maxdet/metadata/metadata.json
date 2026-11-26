@@ -1,0 +1,8 @@
+{
+  "format_version": 1,
+  "weight_normalization": "4pi",
+  "name": "Maximum determinant points",
+  "reference": "I. H. Sloan and R. S. Womersley, \"Extremal systems of points and numerical integration on the sphere\", Adv. Comput. Math. 21 (2004), 107-125. https://doi.org/10.1023/B:ACOM.0000016428.25905.da",
+  "source_url": "https://web.maths.unsw.edu.au/~rsw/Sphere/MaxDet/MaxDet1.html",
+  "license": "Not stated by the source"
+}
