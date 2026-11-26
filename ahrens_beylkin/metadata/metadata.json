@@ -1,0 +1,9 @@
+{
+  "format_version": 1,
+  "weight_normalization": "4pi",
+  "name": "Ahrens-Beylkin rotationally invariant quadratures",
+  "reference": "C. Ahrens and G. Beylkin, \"Rotationally invariant quadratures for the sphere\", Proc. R. Soc. A 465 (2009), 3103-3125. https://doi.org/10.1098/rspa.2009.0104",
+  "source_url": "https://github.com/wavefunction91/IntegratorXX/tree/2620fbf3ec6c1556e28f90113e82017c63e6eafb",
+  "license": "BSD-3-Clause (IntegratorXX, Copyright (c) 2019, David Williams-Young)",
+  "notes": "ahrens_beylkin_39_572.dat: Grid's earlier 552-point grid lacked the 20 icosahedron face centres; they were added in theochem/grid PR 357."
+}
